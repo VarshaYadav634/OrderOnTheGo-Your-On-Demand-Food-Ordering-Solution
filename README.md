@@ -186,5 +186,6 @@ MONGODB_URI=mongodb://localhost:27017/
 
 This project is open source and available under the **MIT License**.
 
-🔗 Drive :
+🔗 Drive : https://drive.google.com/drive/folders/1xpbWAgp6tLLqDqeAh3Kd78nSltZfi6YH?usp=drive_link
+🌐 Live Demo : https://drive.google.com/file/d/1n1up3ntekatrzX6zGJ4z99uMbJ4HwWQv/view?usp=sharing
 
